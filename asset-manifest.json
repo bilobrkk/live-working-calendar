@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/live-working-calendar/static/css/main.82ea5b4d.chunk.css",
+    "main.js": "/live-working-calendar/static/js/main.a22f0bfb.chunk.js",
+    "main.js.map": "/live-working-calendar/static/js/main.a22f0bfb.chunk.js.map",
+    "runtime-main.js": "/live-working-calendar/static/js/runtime-main.a476fffa.js",
+    "runtime-main.js.map": "/live-working-calendar/static/js/runtime-main.a476fffa.js.map",
+    "static/js/2.db9bbb9d.chunk.js": "/live-working-calendar/static/js/2.db9bbb9d.chunk.js",
+    "static/js/2.db9bbb9d.chunk.js.map": "/live-working-calendar/static/js/2.db9bbb9d.chunk.js.map",
+    "index.html": "/live-working-calendar/index.html",
+    "precache-manifest.2093bd5c57ee98f2c69c07b4e306c9ce.js": "/live-working-calendar/precache-manifest.2093bd5c57ee98f2c69c07b4e306c9ce.js",
+    "service-worker.js": "/live-working-calendar/service-worker.js",
+    "static/css/main.82ea5b4d.chunk.css.map": "/live-working-calendar/static/css/main.82ea5b4d.chunk.css.map",
+    "static/js/2.db9bbb9d.chunk.js.LICENSE.txt": "/live-working-calendar/static/js/2.db9bbb9d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a476fffa.js",
+    "static/js/2.db9bbb9d.chunk.js",
+    "static/css/main.82ea5b4d.chunk.css",
+    "static/js/main.a22f0bfb.chunk.js"
+  ]
+}
