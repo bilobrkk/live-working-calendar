@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c4ae8bf2a7f92aa3885098e85ffecc9a",
+    "revision": "2a0bca2f04c3f7769a4b3a9c5a96af69",
     "url": "/live-working-calendar/index.html"
   },
   {
-    "revision": "4d499c25cdf0c0206d94",
-    "url": "/live-working-calendar/static/css/main.82ea5b4d.chunk.css"
+    "revision": "6588138d3e2fe2d4540b",
+    "url": "/live-working-calendar/static/css/main.84a248ec.chunk.css"
   },
   {
     "revision": "2a0c306bc2e2c4628884",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/live-working-calendar/static/js/2.db9bbb9d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4d499c25cdf0c0206d94",
+    "revision": "6588138d3e2fe2d4540b",
     "url": "/live-working-calendar/static/js/main.a22f0bfb.chunk.js"
   },
   {
